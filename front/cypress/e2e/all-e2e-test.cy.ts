@@ -1,0 +1,6 @@
+import './adminSession.cy'
+import './deleteUser.cy'
+import './login.cy'
+import './notFound.cy'
+import './register.cy'
+import './userSession.cy'
