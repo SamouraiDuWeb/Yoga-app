@@ -3,9 +3,9 @@
 ## Démarrage du Projet
 ### Git Clone :
 ```bash
-git clone https://github.com/Alcrai/Testez-une-application-full-stack.git
+git clone https://github.com/SamouraiDuWeb/Yoga-app
 ```
-[https://github.com/Alcrai/Testez-une-application-full-stack](https://github.com/Alcrai/Testez-une-application-full-stack.git)
+[https://github.com/SamouraiDuWeb/Yoga-app](https://github.com/SamouraiDuWeb/Yoga-app)
 
 ## Installation du Backend
 ### Aller dans le dossier :
